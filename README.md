@@ -1,8 +1,4 @@
 <p align="center">
-  <img width="640" src="https://raw.githubusercontent.com/sirt-sirt/sirt-sirt/main/card.png" alt="sirt-sirt card" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sirt-sirt/sirt-sirt/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sirt-sirt/sirt-sirt/output/github-snake.svg" />
